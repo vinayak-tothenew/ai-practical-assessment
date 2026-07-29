@@ -1,0 +1,8 @@
+# Application source — not yet implemented
+#
+# Planned structure:
+#   backend/    Express API (Node.js + TypeScript)
+#   frontend/   React app (Vite + TypeScript)
+#
+# See tool-specific/cursor-workflow/tasks.md for implementation order.
+# Milestone M1 (Database Layer) is next after design approval.
