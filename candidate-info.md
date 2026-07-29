@@ -1,14 +1,14 @@
 # Candidate Information
 
-**Name:** _[Fill your full name before submission]_  
-**Role:** _[Fill your role, e.g. Software Engineer]_  
+**Name:** Vinayak Sharma  
+**Role:** Senior Software Engineer  
 **Primary Technology Stack:** React, Node.js, TypeScript, SQLite
 
 **Primary AI Tool Used:** Cursor  
 **Project Option Selected:** Backend-Heavy — Support Ticket Management System
 
 **Assessment Start Date:** 2026-07-29  
-**Submission Date:** _[Fill on submit day]_
+**Submission Date:** 2026-07-30
 
 ## Project Summary
 
